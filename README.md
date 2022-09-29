@@ -2,11 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # umsichten 4.0
 
+- network website
+
 ## frontend
 
-- nextjs
-- tailwind css
+- Next.js
+- Tailwind CSS
 
 ## backend 
 
-- keystone 6
+- Keystone 6
